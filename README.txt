@@ -1,1 +1,1 @@
-this repo subjects the second udacity project
+this repo contains material of the second udacity project
